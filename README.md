@@ -23,5 +23,5 @@
 4. Captura de dados em tempo real:
 
    
-![Alt text](./1.png)
-![Alt text](./2.png)
+![Alt text](./1.JPG)
+![Alt text](./2.JPG)
