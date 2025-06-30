@@ -21,6 +21,8 @@
 3. Vítima insere credenciais no site clonado  
 4. Captura de dados em tempo real:
 
-   
+![Alt text](./Capturar.JPG)
+![Alt text](./segundo.JPG)
+![Alt text](./3.JPG)
 ![Alt text](./1.JPG)
 ![Alt text](./2.JPG)
