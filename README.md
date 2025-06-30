@@ -16,8 +16,7 @@
    - Método: **Site Cloner** (opção 2)
    - 
 ### Fluxo do Ataque
-1. Clonagem do site:  
-   ```[*] Cloning the website: http://igrejadigital.net.br/```  
+1. Clonagem do site
 2. Serviço iniciado na porta 80  
 3. Vítima insere credenciais no site clonado  
 4. Captura de dados em tempo real:
