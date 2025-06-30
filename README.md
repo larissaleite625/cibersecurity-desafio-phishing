@@ -1,4 +1,4 @@
-# Phishing para captura de credenciais - Igreja Digital
+# Phishing para captura de credenciais
 
 ### Ferramentas
 - Kali Linux
